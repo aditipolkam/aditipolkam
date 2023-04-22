@@ -25,6 +25,7 @@
 
 Apart from this I am 
 - a Developer DAO Member D_D
+- a Developer DAO Member X Mailchain mini hackathon bounty winner for my project [Newsletter API](https://github.com/aditipolkam/newsletter-api-mailchain)
 - The Phoenix Guild Pune Chapter Lead 🌷
 - Advocate for Hyperlane India ⏩
 - SheFi S8 Scholar 💫
