@@ -15,8 +15,6 @@
 
 - doing fullstack stuff with NextJs, Node, Solidity, GraphQL, Firebase, Github Probot, Tailwind, Typescript and numerous other libraries.⚖️
 
-- [buildspace's](https://buildspace.so) nights&weekends project that is going to be a fitness app reimagined with some actual utility that brings in motivation🏃‍♀️
-
 - participating in hackathons (SIH, EthIndia, EthForAll, Hyperhack, etc) to gain knowledge and experience💫
 
 - writing articles on my personal blog [https://aditipolkam.hashnode.dev/](https://aditipolkam.hashnode.dev/) 📝
@@ -24,8 +22,9 @@
 ---
 
 Apart from this I am 
-- winner of hackathon bounty for my project [Newsletter API](https://github.com/aditipolkam/newsletter-api-mailchain) built at Developer DAO X Mailchain mini hackathon
-- a Developer DAO Member D_D
+- the winner of 'Best Hack built on Ethereum + Polygon' track at the [wmn; 2023](https://devfolio.co/projects/equiid-66ab) hackathon 🏆
+- a winner of a hackathon bounty for my project [Newsletter API](https://github.com/aditipolkam/newsletter-api-mailchain) built at Developer DAO X Mailchain mini hackathon 🥇
+- a Developer DAO Member 👀
 - The Phoenix Guild Pune Chapter Lead 🌷
 - Advocate for Hyperlane India ⏩
 - SheFi S8 Scholar 💫
