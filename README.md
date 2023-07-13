@@ -11,9 +11,7 @@
 ---
 <h4>I am currently working on:</h4>
 
-- simplifying code backups on web3 infrastructure (Filecoin) at [Sadaiv CI](https://sadaiv.io/) 💻
-
-- doing fullstack stuff with NextJs, Node, Solidity, GraphQL, Firebase, Github Probot, Tailwind, Typescript and numerous other libraries.⚖️
+- fullstack stuff with NextJs, Node, Solidity, GraphQL, Firebase, Github Probot, Tailwind, Typescript and numerous other libraries.⚖️
 
 - participating in hackathons (SIH, EthIndia, EthForAll, Hyperhack, etc) to gain knowledge and experience💫
 
@@ -27,7 +25,6 @@ Apart from this I am
 - a Developer DAO Member 👀
 - The Phoenix Guild Pune Chapter Lead 🌷
 - Advocate for Hyperlane India ⏩
-- SheFi S8 Scholar 💫
 - Student of the Year (SSC Year) 🏆
 
 ---
