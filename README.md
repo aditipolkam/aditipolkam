@@ -15,7 +15,7 @@
 
 - participating in hackathons (SIH, EthIndia, EthForAll, Hyperhack, etc) to gain knowledge and experience💫
 
-- writing articles on my personal blog [https://aditipolkam.hashnode.dev/](https://aditipolkam.hashnode.dev/) 📝
+- writing articles on my personal blog [https://aditipolkam.hashnode.dev/](https://blog.aditipolkam.me/) 📝
 
 ---
 
