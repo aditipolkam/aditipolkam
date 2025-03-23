@@ -6,8 +6,8 @@
 <h4>What I'm Currently Focusing On:</h4>
 
 <ul>
-  <li>Engineering and fine-tuning the backend architecture at my current organization, ensuring scalability and efficiency. ⚖️</li>
-  <li>Building innovative software products on a freelance basis, bringing ideas to life with code.</li>
+  <li>Taking the World Offline <a href="https://offlineprotocol.com" target="_blank">@OfflineProtocol</a>. ⚖️</li>
+  <li>Building innovative software products and bringing ideas to life with code.</li>
   <li>Writing insightful articles on my personal <a href="https://blog.aditipolkam.me/" target="_blank">blog</a>, where I share thoughts on technology, coding, and more. 📝</li>
 </ul>
 
@@ -18,8 +18,7 @@
 <ul>
   <li>The winner of the 'Best Hack built on Ethereum + Polygon' track at the <a href="https://devfolio.co/projects/equiid-66ab" target="_blank">wmn; 2023</a> hackathon. 🏆</li>
   <li>A winner of a hackathon bounty for my project <a href="https://github.com/aditipolkam/newsletter-api-mailchain" target="_blank">Newsletter API</a> built at the Developer DAO X Mailchain mini hackathon. 🥇</li>
-  <li>A proud member of the Developer DAO community. 👀</li>
-  <li>An advocate for Hyperlane India, championing cross-chain interoperability. ⏩</li>
+  <li>A Developer DAO member. 👀</li>
   <li>The Student of the Year during my SSC Year, recognized for outstanding academic achievement. 🏆</li>
 </ul>
 
